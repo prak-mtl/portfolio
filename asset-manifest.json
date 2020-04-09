@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.61a50514.chunk.css",
+    "main.js": "/portfolio/static/js/main.29a081db.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.29a081db.chunk.js.map",
+    "runtime~main.js": "/portfolio/static/js/runtime~main.f308c8e6.js",
+    "runtime~main.js.map": "/portfolio/static/js/runtime~main.f308c8e6.js.map",
+    "static/js/2.16d9ee9a.chunk.js": "/portfolio/static/js/2.16d9ee9a.chunk.js",
+    "static/js/2.16d9ee9a.chunk.js.map": "/portfolio/static/js/2.16d9ee9a.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.969669257ba313eaaa6c04c669d3e95d.js": "/portfolio/precache-manifest.969669257ba313eaaa6c04c669d3e95d.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.61a50514.chunk.css.map": "/portfolio/static/css/main.61a50514.chunk.css.map",
+    "static/media/address-book.png": "/portfolio/static/media/address-book.ca1c2008.png",
+    "static/media/currency.png": "/portfolio/static/media/currency.52d8bbdd.png",
+    "static/media/magic-mirror.jpg": "/portfolio/static/media/magic-mirror.78bc3797.jpg",
+    "static/media/profile.png": "/portfolio/static/media/profile.810e5d8e.png",
+    "static/media/weather.png": "/portfolio/static/media/weather.7ccb9941.png"
+  }
+}
