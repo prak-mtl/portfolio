@@ -24,7 +24,7 @@ export default {
   projects: [
     {
       id: 1, //DO NOT CHANGE THIS (Please)😅
-      title: "Project One", //Project Title - Add Your Project Title Here
+      title: "Weather app", //Project Title - Add Your Project Title Here
       service: "Design and development", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc: require("./images/weather.png"),
@@ -33,21 +33,21 @@ export default {
     },
     {
       id: 2, //DO NOT CHANGE THIS (Please)😅
-      title: "Project Two",
+      title: "Address book",
       service: "Website Development",
       imageSrc: require("./images/address-book.png"),
       url: "https://prak-mtl.github.io/Address-Book/",
     },
     {
       id: 3, //DO NOT CHANGE THIS (Please)😅
-      title: "Project Three",
+      title: "Currency converter",
       service: "Web App",
       imageSrc: require("./images/currency.png"),
       url: "https://prak-mtl.github.io/Currency-converter/",
     },
     {
       id: 4, //DO NOT CHANGE THIS (Please)😅
-      title: "Project Four",
+      title: "Magic Mirror",
       service: "IOT",
       imageSrc: require("./images/magic-mirror.jpg"),
       url:

@@ -6,7 +6,7 @@
 Demo - https://prak-mtl.github.io/portfolio/
 
 # Preview - 
-![ezgif com-video-to-gif (1)](https://user-images.githubusercontent.com/16558205/59826999-314ace00-9355-11e9-9581-92c6fd160667.gif)
+![portfolio gif](https://i.pinimg.com/originals/db/a8/a5/dba8a5b93ef72749a8b30b816137adc3.gif)
 
 
 ## Features 
