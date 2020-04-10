@@ -2,7 +2,7 @@
 
 ## Minimal Portfolio template for Developers/Designers built with React. Use it to showcase your work, testimonials and other information to clients.
 
-Demo - https://react-portfolio-template.netlify.com/
+Demo - https://prak-mtl.github.io/portfolio/
 
 # Preview - 
 ![ezgif com-video-to-gif (1)](https://user-images.githubusercontent.com/16558205/59826999-314ace00-9355-11e9-9581-92c6fd160667.gif)
@@ -29,20 +29,18 @@ This repo contains an easy-to-customize personal portfolio template that was cre
 4.Run npm start or yarn start to start the local dev server port 3000.(http://localhost:3000).
 
 # Full Preview - 
-![portfolio](https://user-images.githubusercontent.com/16558205/59826731-7d494300-9354-11e9-92dd-46f7057b6ead.png)
+![portfolio](./images/preview.png)
 
 
 License
 Completely free (MIT)!
 
 Follow Me - 
-[Portfolio](http://chetanverma.com/)
-[Behance](https://www.behance.net/chetanverma)
-[Dribbble](https://dribbble.com/chetanverma)
-[Instagram](https://www.instagram.com/cv.uidesign/)
-
-
-
-
-
-
+[Linkedin](https://www.linkedin.com/in/prakmtl)
+[Github](https://github.com/prak-mtl)
+[Stack Overlflow](https://stackoverflow.com/users/9478145/prakhar-mittal)
+[Behance](https://www.behance.net/prakmtlf2b0)
+[Dribble](https://dribbble.com/prak_mtl)
+[Twitter](https://twitter.com/MtlPrak)
+[Facebook](https://www.facebook.com/prakhar.mittal.75)
+[Instagram](https://www.instagram.com/agnostic_mtl/)

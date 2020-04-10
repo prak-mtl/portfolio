@@ -56,10 +56,14 @@ export default {
   ],
   social: [
     // Add Or Remove The Link Accordingly
-    { name: "Github", url: "https://github.com/prak-mtl" },
     {
       name: "Linkedin",
       url: "https://www.linkedin.com/in/prakmtl",
+    },
+    { name: "Github", url: "https://github.com/prak-mtl" },
+    {
+      name: "Stack overflow",
+      url: "https://stackoverflow.com/users/9478145/prakhar-mittal",
     },
     {
       name: "Behance",
@@ -70,16 +74,16 @@ export default {
       url: "https://dribbble.com/prak_mtl",
     },
     {
-      name: "Instagram",
-      url: "https://www.instagram.com/agnostic_mtl/",
-    },
-    {
       name: "Twitter",
       url: "https://twitter.com/MtlPrak",
     },
     {
       name: "Facebook",
       url: "https://www.facebook.com/prakhar.mittal.75",
+    },
+    {
+      name: "Instagram",
+      url: "https://www.instagram.com/agnostic_mtl/",
     },
   ],
 };
