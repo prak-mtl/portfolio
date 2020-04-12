@@ -7,7 +7,7 @@ class Work extends Component {
   state = {};
   render() {
     return (
-      <div>
+      <>
         <h1 className="heading">
           <Fade bottom cascade>
             Work.
@@ -27,7 +27,7 @@ class Work extends Component {
         <span>
           Check my other work on <a href="https://github.com/prak-mtl?tab=repositories" target="_blank" rel="noopener noreferrer">Github</a>
         </span>
-      </div>
+      </>
     );
   }
 }

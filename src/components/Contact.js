@@ -6,8 +6,8 @@ class Contact extends Component {
   state = {};
   render() {
     return (
-      <div>
-        <h1>
+      <>
+        <h1 className="contact-heading">
           <Fade bottom cascade>
             Contact.
           </Fade>
@@ -34,9 +34,9 @@ class Contact extends Component {
         </Fade>
 
         <span className="footer">
-          Made With ❤ by <a href="/">PRAKHAR MITTAL</a>
+          Made With ❤ by <a href="#">PRAKHAR MITTAL</a>
         </span>
-      </div>
+      </>
     );
   }
 }

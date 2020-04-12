@@ -2,21 +2,29 @@ export default {
   //(Please Do Not Remove The comma(,) after every variable)
   //Change The Website Template
   name: "Prakhar Mittal",
+  // headerTagline: [
+  //   //Line 1 For Header
+  //   "Hi 👋 You found me! I am Prakhar Mittal.",
+  //   //Line 2 For Header
+  //   "Web developer/designer",
+  //   //Line 3 For Header
+  //   "from India",
+  // ],
+
   headerTagline: [
-    //Line 1 For Header
-    "Hi 👋 You found me! I am Prakhar Mittal.",
-    //Line 2 For Header
-    "Web developer/designer",
-    //Line 3 For Header
-    "from India",
+    "Hey, I'm a software developer.",
+    "I can solve ",
+    "all, some, one of",
+    " your problems, ok?",
+    "I design, build & sometimes rescue applications.",
+    "Have a project, idea or problem you'd like to discuss?",
   ],
   //Contact Email
   contactEmail: "prak.mtl@outlook.com",
   // Add Your About Text Here
   abouttext:
-    "Experienced and enthusiastic software developer seeking out for a challenging job in UI development. " +
-    "I am a passionate computer programmer and an enthusiastic software developer." +
-    "I have experience in designing, developing and deploying user-friendly and engaging applications.  ",
+    "Professionally connected with the web development industry and information technology for many years. Well-organised person, problem solver, independent employee with high attention to detail. Fan of football, outdoor activities, TV series, cooking, travelling, photography and, recently, fitness." + 
+    " Interested in the entire frontend spectrum and have experience in designing, developing and deploying user-friendly and engaging applications.",
   aboutImage: require("./images/profile.png"),
   //Change This To Hide The Image of About Section (True Or False)
   ShowAboutImage: true, //true or false (Change Here)

@@ -7,22 +7,19 @@ class Header extends Component {
 
   render() {
     return (
-      <div>
+      <>
         <h1 className="heading-background">CREATIVE</h1>
-        <header>
-          <h1>
-            <Fade bottom cascade>
-              {data.name}
-            </Fade>
-          </h1>
-        </header>
         <Fade bottom>
           <p className="header-title">
             {data.headerTagline[0]}
             <br></br>
             {data.headerTagline[1]}
+            <span className="header-title-mid">{data.headerTagline[2]}</span>
+            {data.headerTagline[3]}
             <br></br>
-            {data.headerTagline[2]}
+            {data.headerTagline[4]}
+            <br></br>
+            {data.headerTagline[5]}
             <br></br>
             <button>
               <a href={`mailto:${data.contactEmail}`} rel="noopener noreferrer">
@@ -31,7 +28,7 @@ class Header extends Component {
             </button>
           </p>
         </Fade>
-      </div>
+      </>
     );
   }
 }
