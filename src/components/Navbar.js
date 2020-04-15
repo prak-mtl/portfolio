@@ -27,7 +27,8 @@ class Navbar extends Component {
       <div className="header">
         <p className="logo">
           <Fade bottom cascade>
-            {data.name}
+            {/* {data.name} */}
+            <img src={require("../images/logo.png")} alt={data.name} />
           </Fade>
         </p>
         <nav id="nav-bar">

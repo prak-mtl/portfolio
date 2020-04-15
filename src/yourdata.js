@@ -23,7 +23,7 @@ export default {
   contactEmail: "prak.mtl@outlook.com",
   // Add Your About Text Here
   abouttext:
-    "Professionally connected with the web development industry and information technology for many years. Well-organised person, problem solver, independent employee with high attention to detail. Fan of football, outdoor activities, TV series, cooking, travelling, photography and, recently, fitness." + 
+    "Professionally connected with the web development industry and information technology for many years. Well-organised person, problem solver, independent employee with high attention to detail. Fan of football, outdoor activities, TV series, cooking, travelling, photography and, recently, fitness." +
     " Interested in the entire frontend spectrum and have experience in designing, developing and deploying user-friendly and engaging applications.",
   aboutImage: require("./images/profile.png"),
   //Change This To Hide The Image of About Section (True Or False)
@@ -35,31 +35,35 @@ export default {
       title: "Weather app", //Project Title - Add Your Project Title Here
       service: "Design and development", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
-      imageSrc: require("./images/weather.png"),
+      imageSrc: require("./images/mac/weather.png"),
+      // imageSrc: require("./images/weather.png"),
       //Project URL - Add Your Project Url Here
       url: "https://prak-mtl.github.io/Weather",
     },
     {
       id: 2, //DO NOT CHANGE THIS (Please)😅
-      title: "Address book",
-      service: "Website Development",
-      imageSrc: require("./images/address-book.png"),
-      url: "https://prak-mtl.github.io/Address-Book/",
-    },
-    {
-      id: 3, //DO NOT CHANGE THIS (Please)😅
       title: "Currency converter",
       service: "Web App",
-      imageSrc: require("./images/currency.png"),
+      imageSrc: require("./images/mac/currency.png"),
+      // imageSrc: require("./images/currency.png"),
       url: "https://prak-mtl.github.io/Currency-converter/",
     },
     {
-      id: 4, //DO NOT CHANGE THIS (Please)😅
+      id: 3, //DO NOT CHANGE THIS (Please)😅
       title: "Magic Mirror",
       service: "IOT",
-      imageSrc: require("./images/magic-mirror.jpg"),
+      imageSrc: require("./images/mac/magic-mirror.png"),
+      // imageSrc: require("./images/magic-mirror.jpg"),
       url:
         "https://github.com/prak-mtl/Raspberry-Pi-Smart-Mirror-with-facial-recognition",
+    },
+    {
+      id: 4, //DO NOT CHANGE THIS (Please)😅
+      title: "Address book",
+      service: "Website Development",
+      imageSrc: require("./images/mac/address.png"),
+      // imageSrc: require("./images/address-book.png"),
+      url: "https://prak-mtl.github.io/Address-Book/",
     },
   ],
   social: [

@@ -24,6 +24,11 @@ body {
   font-size: 2em;
   font-weight: bold;
 }
+.logo img {
+  width: 20%;
+  padding-left: 3px;
+}
+
 nav {
   left: 60em;
   top: 5em;
@@ -67,7 +72,6 @@ li .link:hover {
   z-index: -100;
   color: #9352ae;
 }
-
 .header-title {
   position: relative;
   font-family: "Montserrat", sans-serif;
@@ -80,15 +84,16 @@ li .link:hover {
   text-decoration: line-through;
 }
 .header-title button {
-  background: #63d488;
+  background: #7dba46;
   opacity: 0.8;
   border: 0px;
-  padding: 0.1em 1em;
+  padding: 10px 30px;
   transition: all 0.2s ease-out;
   -webkit-transition: all 0.2s ease-out;
   -moz-transition: all 0.2s ease-out;
   -ms-transition: all 0.2s ease-out;
   -o-transition: all 0.2s ease-out;
+  font-size: 24px;
 }
 .header-title button:hover {
   opacity: 1;
@@ -98,7 +103,11 @@ li .link:hover {
   color: white;
   text-decoration: none;
 }
-
+.header-links {
+  display: flex;
+  justify-content: space-between;
+  width: 86%;
+}
 /************************************* About.js *****************************************************/
 .about {
   display: flex;
@@ -144,13 +153,11 @@ li .link:hover {
   grid-template-columns: repeat(2, 1fr);
   grid-gap: 6em;
 }
-.project img {
-  width: 35em;
-  height: 30em;
-  border: 5px solid aliceblue;
+.project-img {
+  width: 100%;
+  height: 100%;
 }
-.project img:hover {
-  box-shadow: 0px 0px 15px 5px #c8e6f3;
+.project-img:hover {
   transform: scale(1.1);
   transition: all 0.4s ease;
 }

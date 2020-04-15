@@ -24,9 +24,9 @@ class Work extends Component {
             ></Project>
           ))}
         </div>
-        <span>
+        <p className="text-center mt-5">
           Check my other work on <a href="https://github.com/prak-mtl?tab=repositories" target="_blank" rel="noopener noreferrer">Github</a>
-        </span>
+        </p>
       </>
     );
   }
