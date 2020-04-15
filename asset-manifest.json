@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.0a5240b5.chunk.css",
-    "main.js": "/portfolio/static/js/main.3723c9bc.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.3723c9bc.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.ce66c95b.chunk.css",
+    "main.js": "/portfolio/static/js/main.2e23fd3a.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.2e23fd3a.chunk.js.map",
     "runtime~main.js": "/portfolio/static/js/runtime~main.f308c8e6.js",
     "runtime~main.js.map": "/portfolio/static/js/runtime~main.f308c8e6.js.map",
     "static/css/2.de424728.chunk.css": "/portfolio/static/css/2.de424728.chunk.css",
     "static/js/2.ed9690ba.chunk.js": "/portfolio/static/js/2.ed9690ba.chunk.js",
     "static/js/2.ed9690ba.chunk.js.map": "/portfolio/static/js/2.ed9690ba.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.740398fd90846d73ffd55ef2224237ae.js": "/portfolio/precache-manifest.740398fd90846d73ffd55ef2224237ae.js",
+    "precache-manifest.34c2626800e99d212284218a495acac7.js": "/portfolio/precache-manifest.34c2626800e99d212284218a495acac7.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/2.de424728.chunk.css.map": "/portfolio/static/css/2.de424728.chunk.css.map",
-    "static/css/main.0a5240b5.chunk.css.map": "/portfolio/static/css/main.0a5240b5.chunk.css.map",
-    "static/media/address-book.png": "/portfolio/static/media/address-book.ca1c2008.png",
-    "static/media/currency.png": "/portfolio/static/media/currency.52d8bbdd.png",
-    "static/media/magic-mirror.jpg": "/portfolio/static/media/magic-mirror.78bc3797.jpg",
+    "static/css/main.ce66c95b.chunk.css.map": "/portfolio/static/css/main.ce66c95b.chunk.css.map",
+    "static/media/address.png": "/portfolio/static/media/address.7a8d611b.png",
+    "static/media/currency.png": "/portfolio/static/media/currency.45ffed70.png",
+    "static/media/logo.png": "/portfolio/static/media/logo.7ff61d76.png",
+    "static/media/magic-mirror.png": "/portfolio/static/media/magic-mirror.23e47d97.png",
     "static/media/profile.png": "/portfolio/static/media/profile.810e5d8e.png",
-    "static/media/weather.png": "/portfolio/static/media/weather.7ccb9941.png"
+    "static/media/weather.png": "/portfolio/static/media/weather.11e15fcf.png"
   }
 }
