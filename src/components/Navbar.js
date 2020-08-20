@@ -16,7 +16,7 @@ class Navbar extends Component {
     var desiredPosition = 100;
     if (window.pageYOffset > desiredPosition) {
       element.style.cssText +=
-        "position: fixed; left: 80em; top: 50%; background-color: cornsilk; transform: rotateZ(90deg); width: 400px; padding: 16px 0 0 0;";
+        "position: fixed; left: 70em; top: 50%; background-color: cornsilk; transform: rotateZ(90deg); width: 400px; padding: 16px 0px 0px 10px;";
     } else if (window.pageYOffset === 0) {
       element.style.cssText +=
         "position: initial; left: 60em; top: 6em; background-color: transparent; transform: rotateZ(0deg);";

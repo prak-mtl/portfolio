@@ -25,7 +25,23 @@ class Work extends Component {
           ))}
         </div>
         <p className="text-center mt-5">
-          Check my other work on <a href="https://github.com/prak-mtl?tab=repositories" target="_blank" rel="noopener noreferrer">Github</a>
+          Check my other work on{" "}
+          <a
+            style={{
+              textDecoration: "underline",
+              fontWeight: "bold",
+            }}
+            ref={(node) => {
+              if (node) {
+                node.style.setProperty("color", "#7f5dd0", "important");
+              }
+            }}
+            href="https://github.com/prak-mtl?tab=repositories"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Github
+          </a>
         </p>
       </>
     );
