@@ -9,35 +9,35 @@ const Projects = () => {
       description: "E-commerce platform for organic food products with real-time inventory management",
       technologies: ["React", "Node.js", "MongoDB", "Stripe"],
       link: "https://falhari.com/",
-      image: "/falhari.png"
+      image: "/portfolio/falhari.png"
     },
     {
       title: "Arrivae",
       description: "Travel booking platform with dynamic pricing and accommodation management",
       technologies: ["React", "TypeScript", "PostgreSQL", "AWS"],
       link: "https://arrivae.com/",
-      image: "/arrivae.png"
+      image: "/portfolio/arrivae.png"
     },
     {
       title: "Aaho",
       description: "Logistics and transportation management system for freight companies",
       technologies: ["React", "Redux", "Node.js", "MySQL"],
       link: "https://aaho.surge.sh/",
-      image: "/aaho.png"
+      image: "/portfolio/aaho.png"
     },
     {
       title: "Yogaa",
       description: "Wellness and yoga platform with live streaming and class scheduling",
       technologies: ["React", "WebRTC", "Express.js", "MongoDB"],
       link: "https://yogaa.surge.sh/",
-      image: "/yogaa.png"
+      image: "/portfolio/yogaa.png"
     },
     {
       title: "Stanza Living",
       description: "Co-living space management platform with booking and tenant management",
       technologies: ["React", "TypeScript", "GraphQL", "PostgreSQL"],
       link: "https://www.stanzaliving.com/",
-      image: "/stanza.png"
+      image: "/portfolio/stanza.png"
     }
   ];
 

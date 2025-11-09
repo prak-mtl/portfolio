@@ -37,7 +37,7 @@ const Navigation = () => {
         <div className="flex items-center justify-between h-16">
           {/* Logo */}
           <div className="flex items-center justify-between flex-shrink-0">
-            <img src='/logo.png' width="16" className="mr-3"/>
+            <img src='/portfolio/logo.png' width="16" className="mr-3"/>
             <div className="text-xl font-bold bg-gradient-primary bg-clip-text">
               Prakhar Mittal
             </div>
