@@ -86,7 +86,7 @@ const Hero = () => {
               <div className="relative w-72 h-72 sm:w-80 sm:h-80 flex items-center justify-center mt-6">
                 {/* Inner clickable CV circle */}
                 <a
-                  href="/Prakhar_Mittal_8+_years_Frontend_Engineer.pdf"
+                  href="/portfolio/Prakhar_Mittal_8+_years_Frontend_Engineer.pdf"
                   target="_blank"
                   rel="noopener noreferrer"
                   aria-label="Open Resume in new tab"
