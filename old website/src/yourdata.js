@@ -1,15 +1,5 @@
 export default {
-  //(Please Do Not Remove The comma(,) after every variable)
-  //Change The Website Template
   name: "Prakhar Mittal",
-  // headerTagline: [
-  //   //Line 1 For Header
-  //   "Hi 👋 You found me! I am Prakhar Mittal.",
-  //   //Line 2 For Header
-  //   "Web developer/designer",
-  //   //Line 3 For Header
-  //   "from India",
-  // ],
 
   headerTagline: [
     "Hey, I'm a software developer.",
@@ -31,7 +21,7 @@ export default {
   // Change Projects Here
   projects: [
     {
-      id: 1, //DO NOT CHANGE THIS (Please)😅
+      id: 1,
       title: "Weather app", //Project Title - Add Your Project Title Here
       service: "Design and development", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
@@ -41,7 +31,7 @@ export default {
       url: "https://prak-mtl.github.io/Weather",
     },
     {
-      id: 2, //DO NOT CHANGE THIS (Please)😅
+      id: 2,
       title: "Currency converter",
       service: "Web App",
       imageSrc: require("./images/mac/currency.png"),
@@ -49,7 +39,7 @@ export default {
       url: "https://prak-mtl.github.io/Currency-converter/",
     },
     {
-      id: 3, //DO NOT CHANGE THIS (Please)😅
+      id: 3,
       title: "Magic Mirror",
       service: "IOT",
       imageSrc: require("./images/mac/magic-mirror.png"),
@@ -58,7 +48,7 @@ export default {
         "https://github.com/prak-mtl/Raspberry-Pi-Smart-Mirror-with-facial-recognition",
     },
     {
-      id: 4, //DO NOT CHANGE THIS (Please)😅
+      id: 4,
       title: "Address book",
       service: "Website Development",
       imageSrc: require("./images/mac/address.png"),
