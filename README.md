@@ -2,7 +2,21 @@
 
 ## Project info
 
+**Demo** - https://prak-mtl.github.io/portfolio/
+
 **URL**: https://lovable.dev/projects/83ffbd70-b4c6-41cc-8a12-9ccbdba08de3
+
+
+
+## Follow Me - 
+[Linkedin](https://www.linkedin.com/in/prakmtl)
+[Github](https://github.com/prak-mtl)
+[Stack Overlflow](https://stackoverflow.com/users/9478145/prakhar-mittal)
+[Behance](https://www.behance.net/prakmtlf2b0)
+[Dribble](https://dribbble.com/prak_mtl)
+[Twitter](https://twitter.com/MtlPrak)
+[Facebook](https://www.facebook.com/prakhar.mittal.75)
+[Instagram](https://www.instagram.com/agnostic_mtl/)
 
 ## How can I edit this code?
 
